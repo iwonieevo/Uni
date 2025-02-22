@@ -1,0 +1,5 @@
+123456 Adam Miauczynski 12.12.2005 M
+654321 Stanislaw Nowak 13.11.2004 M
+019283 Anna Zgerypala 10.10.2005 F
+111111 Dorota Delman 03.03.2006 F
+314567 Adam Nowak 01.01.2005 M
